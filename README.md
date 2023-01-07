@@ -49,3 +49,10 @@ Or install them directly in the notebook by using
 ! pip install 'package-name'
 ```
 You can now have fun running the notebook and seeing the results for yourself.
+
+To run the streamlit app use
+```html
+streamlit run app.py
+```
+
+Check out the streamlit app [here.](https://kotiyalanurag-boorec-app-il6jfq.streamlit.app/)
