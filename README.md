@@ -1,4 +1,6 @@
-# :books: BOOREC
+<h1 align=center>:books: BOOREC
+
+![](https://img.shields.io/badge/Python-3.9-blue) ![](https://img.shields.io/badge/Contributions-Welcome-brightgreen) ![](https://img.shields.io/badge/LICENSE-MIT-red)</h1>
 
 Are you someone that loves to read books but is always confused about what you should be reading next. Well, look no further! BOOREC is a book recommendation 
 system that is capable of displaying the top 'n' most popular books at the time - based on user input. And it can also make recommendations to 
