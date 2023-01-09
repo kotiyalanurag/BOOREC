@@ -26,7 +26,9 @@ between two vectors projected in a multi-dimensional space. It is advantageous b
 (due to the size of the items), chances are they may still be oriented closer together. The smaller the angle is, higher the cosine similarity will be (since 
 cosine function ranges from 1 to -1 between 0 to 180 degrees).
 
-![cosine](https://www.oreilly.com/api/v2/epubs/9781788295758/files/assets/2b4a7a82-ad4c-4b2a-b808-e423a334de6f.png)
+<p align="center">
+  <img src="https://www.oreilly.com/api/v2/epubs/9781788295758/files/assets/2b4a7a82-ad4c-4b2a-b808-e423a334de6f.png" />
+</p>
 
 ## How to get started?
 
