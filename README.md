@@ -1,4 +1,6 @@
-# BOOREC
+<h1 align=center>:books: BOOREC
+
+![](https://img.shields.io/badge/Python-3.9-blue) ![](https://img.shields.io/badge/Contributions-Welcome-brightgreen) ![](https://img.shields.io/badge/LICENSE-MIT-red)</h1>
 
 Are you someone that loves to read books but is always confused about what you should be reading next. Well, look no further! BOOREC is a book recommendation 
 system that is capable of displaying the top 'n' most popular books at the time - based on user input. And it can also make recommendations to 
@@ -24,7 +26,9 @@ between two vectors projected in a multi-dimensional space. It is advantageous b
 (due to the size of the items), chances are they may still be oriented closer together. The smaller the angle is, higher the cosine similarity will be (since 
 cosine function ranges from 1 to -1 between 0 to 180 degrees).
 
-![cosine](https://www.oreilly.com/api/v2/epubs/9781788295758/files/assets/2b4a7a82-ad4c-4b2a-b808-e423a334de6f.png)
+<p align="center">
+  <img src="https://www.oreilly.com/api/v2/epubs/9781788295758/files/assets/2b4a7a82-ad4c-4b2a-b808-e423a334de6f.png" />
+</p>
 
 ## How to get started?
 
@@ -49,3 +53,10 @@ Or install them directly in the notebook by using
 ! pip install 'package-name'
 ```
 You can now have fun running the notebook and seeing the results for yourself.
+
+To run the streamlit app use
+```html
+streamlit run app.py
+```
+
+Check out the streamlit app [here.](https://kotiyalanurag-boorec-app-il6jfq.streamlit.app/)
